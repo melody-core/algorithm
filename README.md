@@ -34,4 +34,4 @@ var twoSum = function (nums, target) {
 
 运行结果截图：
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/301432c1c0724dcd89630479123debc3~tplv-k3u1fbpfcp-watermark.image)
+![image.png](https://raw.githubusercontent.com/melody-core/algorithm/main/image/image.png)
