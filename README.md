@@ -34,4 +34,4 @@ var twoSum = function (nums, target) {
 
 运行结果截图：
 
-<https://cdn.nlark.com/yuque/0/2021/png/338969/1629208522856-cbdf6a1e-12f8-455d-91b2-a9b655bce960.png?x-oss-process=image%2Fresize%2Cw_1500>
+![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/301432c1c0724dcd89630479123debc3~tplv-k3u1fbpfcp-watermark.image)
